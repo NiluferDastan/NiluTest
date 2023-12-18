@@ -10,3 +10,5 @@ custom_discrete = rv_discrete(values=(x, p))
 expected_value = custom_discrete.expect()
 print(expected_value)
 
+
+##bug fixed
