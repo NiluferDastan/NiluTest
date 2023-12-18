@@ -1,13 +1,13 @@
-# Valorant App UI
+# Data UI
 
-<b>Valorant Guide Nedir?</b>
+<btest Nedir?</b>
 <br>
-❤️‍🔥 Valorant Guide, Flutter ile yapılmış bir UI çalışmasıdır.
+❤️‍🔥 test, Flutter ile yapılmış bir UI çalışmasıdır.
 (Zamanla güncellenecektir)
 
 
 # Önizleme
-![](https://i.hizliresim.com/loakxid.png)
+![](https://img.imgyukle.com/2023/12/18/yNjCoQ.png)
 
 
 # Mimari
