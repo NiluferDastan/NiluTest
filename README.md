@@ -7,7 +7,7 @@
 
 
 # Önizleme
-![](https://img.imgyukle.com/2023/12/18/yNjCoQ.png)
+![](https://i.hizliresim.com/f8c0btv.PNG)
 
 
 # Mimari
