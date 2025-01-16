@@ -7,7 +7,7 @@
 
 
 # Önizleme
-![mascot](https://i.hizliresim.com/f8c0btv.PNG)
+![](https://i.hizliresim.com/f8c0btv.PNG)
 
 
 # Mimari
